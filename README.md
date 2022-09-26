@@ -1,2 +1,2 @@
-# Project: Guess My Number Game
-# Context: JavaScript Practice
+# Guess My Number Game
+### Context: JavaScript Practice
